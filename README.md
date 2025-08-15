@@ -31,7 +31,3 @@ Users can create, edit, delete, and view notes with pagination support.
      [http://localhost/phpMyAdmin](http://localhost/phpMyAdmin)
    - Create a new database named `notes_database`.
    - Import the `notes_database.sql` file from the project.
-
-4. **Open the project in your browser**
-   Visit:  
-   [http://localhost/php-notes-app/index.php](http://localhost/php-notes-app/index.php)
